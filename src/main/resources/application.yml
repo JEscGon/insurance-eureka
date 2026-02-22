@@ -2,6 +2,10 @@ spring:
   application:
     name: insurance-eureka
 
+spring:
+  application:
+    name: insurance-eureka
+
 server:
   port: 8761
 
