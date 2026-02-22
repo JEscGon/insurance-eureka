@@ -7,7 +7,7 @@ server:
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: insurance-eureka
   client:
     # Al ser el propio servidor, no se registra ni busca en sí mismo
     register-with-eureka: false
